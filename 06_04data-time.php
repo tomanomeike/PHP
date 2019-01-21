@@ -8,12 +8,6 @@
 <pre>
 <?php
 
-/**
- * Created by PhpStorm.
- * User: toman
- * Date: 2019-01-07
- * Time: 19:26
- */
 $students=[
     ["vardas"=> "Jonas",
         "gimimo data" => ['2001-10-3']

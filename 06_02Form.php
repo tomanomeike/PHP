@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sum</title>
+    <title>Sandauga</title>
 </head>
 <body>
 
@@ -18,8 +18,9 @@ $num1 = $_GET['num1'];
 $num2 = $_GET['num2'];
 if (isset($num2) && isset($num2)) {
 
-    $sum = $num1 + $num2;
+    $sum = $num1 * $num2;
     echo $num1 . " + " . $num2 . " = " . $sum;
+
 }
 ?>
 
